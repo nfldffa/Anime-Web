@@ -17,12 +17,10 @@
 
 .custom-navbar .navbar-brand {
   color: aliceblue;
-  font-size: 40px;
 }
 
 .custom-navbar .nav-link {
   color: #ffffff;
-  font-size: 20px;
 }
 
 .custom-navbar .nav-link:hover {
