@@ -1,0 +1,63 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/img/bg/bg-1.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 500px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.custom-navbar {
+  background-color: blue;
+}
+
+.custom-navbar .navbar-brand {
+  color: aliceblue;
+  font-size: 40px;
+}
+
+.custom-navbar .nav-link {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.custom-navbar .nav-link:hover {
+  color: black; /* Ganti dengan warna teks saat hover */
+}
+
+.title {
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 3px 3px black;
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/img/bg/bg-2.jpg");
+  background-size: cover;
+}
+
+.movieWrapper
+
+.movieImage {
+  background-color: white;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
+
+.romance {
+  height: auto;
+  background: url("../assets/img/bg/bg-3.jpg");
+  background-size: cover;
+}
